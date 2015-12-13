@@ -1,0 +1,426 @@
+#item: dgq11
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_dgq11" onmousedown="javascript:lockMouse(event,'dgq11')" onmouseup="javascript:unLockMouse(event,'dgq11')">
+<div class="cross"><a href="javascript:closeCite('dgq11')">X</a></div>
+<p>
+~~~
+
+/Mask iterative hard thresholding algorithms for sparse image reconstruction of objects with known contour/\n
+Dogandv zić, A., Gu, R. and Qiu, K.\n
+In Proc. Asilomar Conf. Signals, Syst. Comput., November, 2011, pp. 2111-2116\n
+[javascript:toggleBibtex('dgq11') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_dgq11" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@inproceedings{dgq11,
+  author = {Dogandv zi&#263;, Aleksandar and Gu, Renliang and Qiu, Kun},
+  title = {Mask iterative hard thresholding algorithms for sparse image reconstruction of objects with known contour},
+  booktitle = {Proc. Asilomar Conf. Signals, Syst. Comput.},
+  year = {2011},
+  pages = {2111-2116}
+}
+</pre></div>
+</div>
+~~~
+#item: gdqnde14
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_gdqnde14" onmousedown="javascript:lockMouse(event,'gdqnde14')" onmouseup="javascript:unLockMouse(event,'gdqnde14')">
+<div class="cross"><a href="javascript:closeCite('gdqnde14')">X</a></div>
+<p>
+~~~
+
+/Polychromatic Sparse Image Reconstruction and Mass Attenuation Spectrum Estimation via B-Spline Basis Function Expansion/\n
+Gu, R. and Dogandžić, A.\n
+In , 2015, Vol. 34 1650, pp. 1707-1716\n
+[javascript:toggleBibtex('gdqnde14') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_gdqnde14" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@inproceedings{gdqnde14,
+  author = {Gu, Renliang and Dogand&#382;i&#263;, Aleksandar},
+  title = {Polychromatic Sparse Image Reconstruction and Mass Attenuation Spectrum Estimation via B-Spline Basis Function Expansion},
+  booktitle = {},
+  year = {2015},
+  volume = {34 1650},
+  pages = {1707-1716}
+}
+</pre></div>
+</div>
+~~~
+#item: gdqnde13formattedforQNDE14
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_gdqnde13formattedforQNDE14" onmousedown="javascript:lockMouse(event,'gdqnde13formattedforQNDE14')" onmouseup="javascript:unLockMouse(event,'gdqnde13formattedforQNDE14')">
+<div class="cross"><a href="javascript:closeCite('gdqnde13formattedforQNDE14')">X</a></div>
+<p>
+~~~
+
+/Sparse Signal Reconstruction from Polychromatic X-ray CT Measurements via Mass Attenuation Discretization/\n
+Gu, R. and Dogandžić, A.\n
+AIP, Melville, NYIn , published by AIP, Melville, NY, 2014, pp. 1848–1855\n
+[javascript:toggleBibtex('gdqnde13formattedforQNDE14') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_gdqnde13formattedforQNDE14" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@inproceedings{gdqnde13formattedforQNDE14,
+  author = {Gu, Renliang and Dogand&#382;i&#263;, Aleksandar},
+  title = {Sparse Signal Reconstruction from Polychromatic X-ray CT Measurements via Mass Attenuation Discretization},
+  booktitle = {},
+  publisher = {AIP, Melville, NY},
+  year = {published by AIP, Melville, NY, 2014},
+  pages = {1848–1855},
+  note = {Vol. 33 1581}
+}
+</pre></div>
+</div>
+~~~
+#item: gdqnde13
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_gdqnde13" onmousedown="javascript:lockMouse(event,'gdqnde13')" onmouseup="javascript:unLockMouse(event,'gdqnde13')">
+<div class="cross"><a href="javascript:closeCite('gdqnde13')">X</a></div>
+<p>
+~~~
+
+/Sparse Signal Reconstruction from Polychromatic X-ray CT Measurements via Mass Attenuation Discretization/\n
+Gu, R. and Dogandžić, A.\n
+In , 2014, Vol. 33 1581, pp. 1848–1855\n
+[javascript:toggleBibtex('gdqnde13') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_gdqnde13" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@inproceedings{gdqnde13,
+  author = {Gu, Renliang and Dogand&#382;i&#263;, Aleksandar},
+  title = {Sparse Signal Reconstruction from Polychromatic X-ray CT Measurements via Mass Attenuation Discretization},
+  booktitle = {},
+  year = {2014},
+  volume = {33 1581},
+  pages = {1848–1855}
+}
+</pre></div>
+</div>
+~~~
+#item: gdicassp16
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_gdicassp16" onmousedown="javascript:lockMouse(event,'gdicassp16')" onmouseup="javascript:unLockMouse(event,'gdicassp16')">
+<div class="cross"><a href="javascript:closeCite('gdicassp16')">X</a></div>
+<p>
+~~~
+
+/Blind Polychromatic X-Ray CT Reconstruction from Poisson Measurements/\n
+Gu, R. and Dogandžić, A.\n
+In Proc. IEEE Int. Conf. Acoust., Speech, Signal Process., 2016\n
+[javascript:toggleBibtex('gdicassp16') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_gdicassp16" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@conference{gdicassp16,
+  author = {Gu, Renliang and Dogand&#382;i&#263;, Aleksandar},
+  title = {Blind Polychromatic X-Ray CT Reconstruction from Poisson Measurements},
+  booktitle = {Proc. IEEE Int. Conf. Acoust., Speech, Signal Process.},
+  year = {2016}
+}
+</pre></div>
+</div>
+~~~
+#item: beamhardeningTechReport15
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_beamhardeningTechReport15" onmousedown="javascript:lockMouse(event,'beamhardeningTechReport15')" onmouseup="javascript:unLockMouse(event,'beamhardeningTechReport15')">
+<div class="cross"><a href="javascript:closeCite('beamhardeningTechReport15')">X</a></div>
+<p>
+~~~
+
+/Polychromatic X-ray CT Image Reconstruction and Mass-Attenuation Spectrum Estimation/\n
+Gu, R. and Dogandžić, A.\n
+, September, 2015\n
+[javascript:toggleBibtex('beamhardeningTechReport15') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_beamhardeningTechReport15" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@electronic{beamhardeningTechReport15,
+  author = {Renliang Gu and Aleksandar Dogand&#382;i&#263;},
+  title = {Polychromatic X-ray CT Image Reconstruction and Mass-Attenuation Spectrum Estimation},
+  year = {2015}
+}
+</pre></div>
+</div>
+~~~
+#item: gd15beamhardensub
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_gd15beamhardensub" onmousedown="javascript:lockMouse(event,'gd15beamhardensub')" onmouseup="javascript:unLockMouse(event,'gd15beamhardensub')">
+<div class="cross"><a href="javascript:closeCite('gd15beamhardensub')">X</a></div>
+<p>
+~~~
+
+/Blind X-ray CT Image Reconstruction from Polychromatic Poisson Measurements/\n
+Gu, R. and Dogandžić, A.\n
+IEEE Trans. Comput. Imag., 2015\n
+[javascript:toggleBibtex('gd15beamhardensub') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_gd15beamhardensub" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{gd15beamhardensub,
+  author = {Renliang Gu and Aleksandar Dogand&#382;i&#263;},
+  title = {Blind X-ray CT Image Reconstruction from Polychromatic Poisson Measurements},
+  journal = {IEEE Trans. Comput. Imag.},
+  year = {2015}
+}
+</pre></div>
+</div>
+~~~
+#item: gd15nonnegsub
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_gd15nonnegsub" onmousedown="javascript:lockMouse(event,'gd15nonnegsub')" onmouseup="javascript:unLockMouse(event,'gd15nonnegsub')">
+<div class="cross"><a href="javascript:closeCite('gd15nonnegsub')">X</a></div>
+<p>
+~~~
+
+/Nesterov's Proximal-Gradient Algorithms for Reconstructing Nonnegative Signals with Sparse Transform Coefficients/\n
+Gu, R. and Dogandžić, A.\n
+#IEEE_J_SP#, 2015\n
+[javascript:toggleBibtex('gd15nonnegsub') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_gd15nonnegsub" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{gd15nonnegsub,
+  author = {Renliang Gu and Aleksandar Dogand&#382;i&#263;},
+  title = {Nesterov's Proximal-Gradient Algorithms for Reconstructing Nonnegative Signals with Sparse Transform Coefficients},
+  journal = {#IEEE_J_SP#},
+  year = {2015}
+}
+</pre></div>
+</div>
+~~~
+#item: gd15upperbound
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_gd15upperbound" onmousedown="javascript:lockMouse(event,'gd15upperbound')" onmouseup="javascript:unLockMouse(event,'gd15upperbound')">
+<div class="cross"><a href="javascript:closeCite('gd15upperbound')">X</a></div>
+<p>
+~~~
+
+/Upper bounds on total-variation regularization constants/\n
+Gu, R. and Dogandžić, A.\n
+, 2015\n
+[javascript:toggleBibtex('gd15upperbound') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_gd15upperbound" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{gd15upperbound,
+  author = {Renliang Gu and Aleksandar Dogand&#382;i&#263;},
+  title = {Upper bounds on total-variation regularization constants},
+  year = {2015}
+}
+</pre></div>
+</div>
+~~~
+#item: gdasil15
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_gdasil15" onmousedown="javascript:lockMouse(event,'gdasil15')" onmouseup="javascript:unLockMouse(event,'gdasil15')">
+<div class="cross"><a href="javascript:closeCite('gdasil15')">X</a></div>
+<p>
+~~~
+
+/Projected Nesterov's Proximal-Gradient Signal Recovery from Compressive Poisson Measurements/\n
+Gu, R. and Dogandžić, A.\n
+In Proc. Asilomar Conf. Signals, Syst. Comput., November, 2015\n
+[javascript:toggleBibtex('gdasil15') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_gdasil15" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@inproceedings{gdasil15,
+  author = {Renliang Gu and Aleksandar Dogand&#382;i&#263;},
+  title = {Projected Nesterov's Proximal-Gradient Signal Recovery from Compressive Poisson Measurements},
+  booktitle = {Proc. Asilomar Conf. Signals, Syst. Comput.},
+  year = {2015}
+}
+</pre></div>
+</div>
+~~~
+#item: gdqnde14formattedforQNDE15
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_gdqnde14formattedforQNDE15" onmousedown="javascript:lockMouse(event,'gdqnde14formattedforQNDE15')" onmouseup="javascript:unLockMouse(event,'gdqnde14formattedforQNDE15')">
+<div class="cross"><a href="javascript:closeCite('gdqnde14formattedforQNDE15')">X</a></div>
+<p>
+~~~
+
+/Polychromatic Sparse Image Reconstruction and Mass Attenuation Spectrum Estimation via B-Spline Basis Function Expansion/\n
+Gu, R. and Dogandžić, A.\n
+, 2015, pp. 1707-1716\n
+[javascript:toggleBibtex('gdqnde14formattedforQNDE15') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_gdqnde14formattedforQNDE15" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{gdqnde14formattedforQNDE15,
+  author = {Gu, Renliang and Dogand&#382;i&#263;, Aleksandar},
+  title = {Polychromatic Sparse Image Reconstruction and Mass Attenuation Spectrum Estimation via B-Spline Basis Function Expansion},
+  year = {2015},
+  pages = {1707-1716},
+  note = {bf 34 }
+}
+</pre></div>
+</div>
+~~~
+#item: gdqnde15
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_gdqnde15" onmousedown="javascript:lockMouse(event,'gdqnde15')" onmouseup="javascript:unLockMouse(event,'gdqnde15')">
+<div class="cross"><a href="javascript:closeCite('gdqnde15')">X</a></div>
+<p>
+~~~
+
+/Blind beam-hardening correction from Poisson measurements/\n
+Gu, R. and Dogandžić, A.\n
+In , July, 2015, Vol. 34\n
+[javascript:toggleBibtex('gdqnde15') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_gdqnde15" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@inproceedings{gdqnde15,
+  author = {Renliang Gu and Aleksandar Dogand&#382;i&#263;},
+  title = {Blind beam-hardening correction from Poisson measurements},
+  booktitle = {},
+  year = {2015},
+  volume = {34}
+}
+</pre></div>
+</div>
+~~~
+#item: NesterovTechReport
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_NesterovTechReport" onmousedown="javascript:lockMouse(event,'NesterovTechReport')" onmouseup="javascript:unLockMouse(event,'NesterovTechReport')">
+<div class="cross"><a href="javascript:closeCite('NesterovTechReport')">X</a></div>
+<p>
+~~~
+
+/Reconstruction of Nonnegative Sparse Signals Using Accelerated Proximal-Gradient Algorithms/\n
+Gu, R. and Dogandžić, A.\n
+, March, 2015\n
+[javascript:toggleBibtex('NesterovTechReport') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_NesterovTechReport" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@electronic{NesterovTechReport,
+  author = {Renliang Gu and Aleksandar Dogand&#382;i&#263;},
+  title = {Reconstruction of Nonnegative Sparse Signals Using Accelerated Proximal-Gradient Algorithms},
+  year = {2015}
+}
+</pre></div>
+</div>
+~~~
+#item: gdasil14
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_gdasil14" onmousedown="javascript:lockMouse(event,'gdasil14')" onmouseup="javascript:unLockMouse(event,'gdasil14')">
+<div class="cross"><a href="javascript:closeCite('gdasil14')">X</a></div>
+<p>
+~~~
+
+/A fast proximal gradient algorithm for reconstructing nonnegative signals with sparse transform coefficients/\n
+Gu, R. and Dogandžić, A.\n
+In Proc. Asilomar Conf. Signals, Syst. Comput., November, 2014, pp. 1662–1667\n
+[javascript:toggleBibtex('gdasil14') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_gdasil14" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@inproceedings{gdasil14,
+  author = {Renliang Gu and Aleksandar Dogand&#382;i&#263;},
+  title = {A fast proximal gradient algorithm for reconstructing nonnegative signals with sparse transform coefficients},
+  booktitle = {Proc. Asilomar Conf. Signals, Syst. Comput.},
+  year = {2014},
+  pages = {1662–1667}
+}
+</pre></div>
+</div>
+~~~
+#item: gdCAMSAP13
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_gdCAMSAP13" onmousedown="javascript:lockMouse(event,'gdCAMSAP13')" onmouseup="javascript:unLockMouse(event,'gdCAMSAP13')">
+<div class="cross"><a href="javascript:closeCite('gdCAMSAP13')">X</a></div>
+<p>
+~~~
+
+/Sparse X-ray CT Image Reconstruction and Blind Beam Hardening Correction via Mass Attenuation Discretization/\n
+Gu, R. and Dogandžić, A.\n
+In Proc. IEEE Int. Workshop Comput. Advances Multi-Sensor Adaptive Process., December, 2013, pp. 244-247\n
+[javascript:toggleBibtex('gdCAMSAP13') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_gdCAMSAP13" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@inproceedings{gdCAMSAP13,
+  author = {Gu, Renliang and Dogand&#382;i&#263;, Aleksandar},
+  title = {Sparse X-ray CT Image Reconstruction and Blind Beam Hardening Correction via Mass Attenuation Discretization},
+  booktitle = {Proc. IEEE Int. Workshop Comput. Advances Multi-Sensor Adaptive Process.},
+  year = {2013},
+  pages = {244-247}
+}
+</pre></div>
+</div>
+~~~
+#item: GuDogandzic2013
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_GuDogandzic2013" onmousedown="javascript:lockMouse(event,'GuDogandzic2013')" onmouseup="javascript:unLockMouse(event,'GuDogandzic2013')">
+<div class="cross"><a href="javascript:closeCite('GuDogandzic2013')">X</a></div>
+<p>
+~~~
+
+/Beam Hardening Correction Via Mass Attenuation Discretization/\n
+Gu, R. and Dogandžić, A.\n
+In Proc. IEEE Int. Conf. Acoust., Speech, Signal Process., May, 2013, pp. 1085-1089\n
+[javascript:toggleBibtex('GuDogandzic2013') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_GuDogandzic2013" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@conference{GuDogandzic2013,
+  author = {Gu, Renliang and Dogand&#382;i&#263;, Aleksandar},
+  title = {Beam Hardening Correction Via Mass Attenuation Discretization},
+  booktitle = {Proc. IEEE Int. Conf. Acoust., Speech, Signal Process.},
+  year = {2013},
+  pages = {1085-1089}
+}
+</pre></div>
+</div>
+~~~

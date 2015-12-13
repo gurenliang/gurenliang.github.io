@@ -1,0 +1,78 @@
+
+~~~
+#{}{img_left}{whitebg.jpg}{Renliang Gu}{150}
+= \nRenliang Gu
+Ph.D. student @
+[http://www.ece.iastate.edu/ Electrical and Computer Engineering]\n
+[http://www.iastate.edu/ Iowa State University], Ames, IA 50011\n
+#:{Address} 3125 Coover Hall
+\n
+~~~
+
+#== Contact
+#[renliang@iastate.edu]
+#~~~
+#{}{raw}
+#<a href="http://twitter.com/jem_nz" class="twitter-follow-button"
+#data-show-count="false">Follow @jem_nz</a>
+#<script src="http://platform.twitter.com/widgets.js"
+#type="text/javascript"></script>
+#~~~
+
+== Research Interest
+- Statistical Signal Processing
+- Convex Optimization
+- X-ray Computed Tomography Imaging
+
+== Publications
+- R. Gu and A. Dogandžić, "[icassp2013/ Beam hardening correction via
+  mass attenuation discretization]," in /Proc. IEEE Int. Conf. Acoust., Speech,
+  Signal Process./, Vancouver, Canada, May 2013, to appear.
+- A. Dogandžić, R. Gu, and K. Qiu, “Algorithms for sparse X-ray CT image 
+  reconstruction of objects with known contour,” in /Rev. Progress 
+  Quantitative Nondestructive Evaluation/, D. O. Thompson and D. E. Chimenti, 
+  Eds., ser. AIP Conf. Proc. Vol. 31, Melville, NY, 2012, pp. 597-604
+- A. Dogandžić, R. Gu, and K. Qiu, 
+  "[http://home.engineering.iastate.edu/~ald/asil11.pdf Mask iterative hard 
+  thresholding algorithms for sparse image reconstruction of objects with 
+  known contour]," in /Proc. Asilomar Conf. Signals, Syst. Comput./, 
+  Pacific Grove, CA, Nov.  2011, pp. 2111-2116.
+- A. Hu, R. Gu and P. Fan, “A File Encryption Method of USB Mobile Storage 
+  Device”, /State Intellectual Property Office of P.R.China/, Patent #: 
+  200910183069.1, Jul. 2009.
+
+== Teaching
+- EE 224: Signal and Systems I
+-- Fall 2010 (Lab instructor, homework and lab report grader)
+-- Spring 2011 (Lab instructor, lab report grader)
+
+== Education
+- Ph.D., [http://www.ece.iastate.edu/ Electrical and Computer Engineering], 
+  [http://www.iastate.edu Iowa State University], Ames, USA, Aug. 2010 \~ 
+  present. \n
+  Advisor: [http://home.engineering.iastate.edu/~ald/ Aleksandar Dogandžić]
+- B.Eng. (Hons), [http://radio.seu.edu.cn/ School of Information Science and 
+  Technology] (study in [http://wjx.seu.edu.cn/ Chien-Shiung Wu College] 
+  for the first two years), [http://www.seu.edu.cn Southeast University], 
+  Nanjing, China, Aug. 2005 \~ Jul. 2009.\n
+  (Overall GPA: 88.15/100, Major GPA: 90.75) #, Ranking: 4/84)
+
+== Thesis
+- R. Gu, “A File Encryption System for USB Memory Device based on Embedded 
+  System of ARM9”, Bachelor of Engineering Thesis, Southeast University, 
+  Jul. 2009.
+
+== Technical Experience
+- R. Gu, GMSK modulator and demodulator design for GSM base station on FPGA
+  platform, Nov.  2009 \∼ July 2010.
+- R. Gu, 10\/100M Ethernet-FIFO Convertor IP Core Design, Jul. 2009 ∼ Sept.
+  2009.\n
+  One part of GSM transceiver. I was in charge of FPGA module including PCB
+  designing and Ethernet- FIFO interface verilog coding. The project is now
+  available at Opencores.com.
+- R. Gu, P. Fan and J. Zhang, General USB Security Guard with Fingerprint
+  Recognition, Jun. 2008 \∼ Aug. 2008.\n
+  The first prize project in National Undergraduate Electronic Design Contest.
+  Fingerprint is used for identification processed in DSP and FPGA is used to
+  resolve USB protocol and encrypt\/decrypt the data.
+
