@@ -16,8 +16,8 @@
 
 - R.~Gu and A.~Dogandžić, “Blind beam-hardening correction from {P}oisson 
   measurements,” in /Rev. Prog. Quant.  Nondestr. Eval./, D.~E.~Chimenti 
-  and L.~J.~Bond, Eds., ser. AIP Conf. Proc. 2016, to appear. 
-  [/qnde2015.bib \[BibTex\]][/pdf/qnde2015.pdf \[PDF\]] 
+  and L.~J.~Bond, Eds., ser. AIP Conf. Proc. 2016, to appear.  
+  #[/javascript:toggleBibtex('gdasil14') \[BibTex\]] [/pdf/qnde2015.pdf \[PDF\]] 
 
 - R. Gu and A. Dogandžić, “A fast proximal gradient algorithm for 
   reconstructing nonnegative signals with sparse transform coefficients,” 
@@ -174,7 +174,7 @@
   algorithms for sparse image reconstruction of objects with known 
   contour," in /Proc. Asilomar Conf. Signals, Syst. Comput./, Pacific 
   Grove, CA, Nov.  2011, pp.~2111-2116.
-  [/javascript:toggleBibtex('gdq11') \[BibTex\]] 
+  [/javascript:toggleBibtex('dgq11') \[BibTex\]] 
   [http://dx.doi.org/10.1109/ACSSC.2011.6190402 \[DOI\]]
   [/pdf/asilomar2011.pdf \[PDF\]]
 ~~~
@@ -196,4 +196,9 @@
 - A. Hu, R. Gu and P. Fan, “A File Encryption Method of USB Mobile Storage 
   Device”, /State Intellectual Property Office of P.R.China/, Patent #: 
   200910183069.1, Jul. 2009.
+
+== Undergraduate Thesis
+- R. Gu, “A File Encryption System for USB Memory Device based on Embedded 
+  System of ARM9 (in Chinese)”, Bachelor of Engineering Thesis, Southeast 
+  University, Jul. 2009.
 

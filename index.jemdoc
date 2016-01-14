@@ -25,29 +25,10 @@ Ph.D. student @
   Nanjing, China, Aug. 2005 \~ Jul. 2009.\n
 # (Overall GPA: 88.15\/100, Major GPA: 90.75, Ranking: 4\/84)
 
-== Technical Experience
-- R. Gu, GMSK modulator and demodulator design for GSM base station on FPGA
-  platform, Nov.  2009 \∼ July 2010.
-- R. Gu, 10\/100M Ethernet-FIFO Converter IP Core Design, Jul. 2009 ∼ Sept.
-  2009.\n
-  One part of GSM transceiver. I was in charge of FPGA module including PCB
-  designing and Ethernet- FIFO interface verilog coding. The project is now
-  available at Opencores.com.
-- R. Gu, P. Fan and J. Zhang, General USB Security Guard with Fingerprint
-  Recognition, Jun. 2008 \∼ Aug. 2008.\n
-  The first prize project in National Undergraduate Electronic Design Contest.
-  Fingerprint is used for identification processed in DSP and FPGA is used to
-  resolve USB protocol and encrypt\/decrypt the data.
-
 == Teaching
 - EE 224: Signal and Systems I
 -- Fall 2010 (Lab instructor, homework and lab report grader)
 -- Spring 2011 (Lab instructor, lab report grader)
 - EE 323: Introduction to Digital Signal Processing
 -- Spring 2016 (Lab instructor, lab report grader)
-
-== Undergraduate Thesis
-- R. Gu, “A File Encryption System for USB Memory Device based on Embedded 
-  System of ARM9 (in Chinese)”, Bachelor of Engineering Thesis, Southeast 
-  University, Jul. 2009.
 
