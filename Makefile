@@ -1,5 +1,5 @@
 
-DOCS:=index
+DOCS:=index pub
 
 HDOCS:=$(addsuffix .html, $(DOCS))
 
