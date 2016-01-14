@@ -25,7 +25,7 @@
   Nov.~2014, pp.~1662–1667
   [/javascript:toggleBibtex('gdasil14') \[BibTex\]]
   [http://dx.doi.org/10.1109/ACSSC.2014.7094749 \[DOI\]]
-  [/pdf/asilomar2014.pdf \[PDF\]]
+  #[/pdf/asilomar2014.pdf \[PDF\]]
 ~~~
 {}{raw}
 <div id="bib_gdasil14" class="bibtex noshow"><pre>
@@ -50,7 +50,8 @@
 # (This paper is on the *lognormal* measurement model with $\ell_1$-norm regularizations)
   [/javascript:toggleBibtex('gdqnde14') \[BibTex\]] 
   [http://dx.doi.org/10.1063/1.4914792 \[DOI\]] 
-  [/pdf/qnde2014.pdf \[PDF\]]#[/pdf/qnde2014slides.pdf \[slides\]]
+  #[/pdf/qnde2014.pdf \[PDF\]]
+  #[/pdf/qnde2014slides.pdf \[slides\]]
 ~~~
 {}{raw}
 <div id="bib_gdqnde14" class="bibtex noshow"><pre>
@@ -76,7 +77,7 @@
   Saint Martin, French West Indies, Dec.~2013, pp.~244–247
   [/javascript:toggleBibtex('gdCAMSAP13') \[BibTeX\]] 
   [http://dx.doi.org/10.1109/CAMSAP.2013.6714053 \[DOI\]]
-  [/pdf/camsap2013.pdf \[PDF\]]
+  #[/pdf/camsap2013.pdf \[PDF\]]
 ~~~
 {}{raw}
 <div id="bib_gdCAMSAP13" class="bibtex noshow"><pre>
@@ -102,8 +103,8 @@
   pp.~1848–1855.
   [/javascript:toggleBibtex('gdqnde13') \[BibTeX\]] 
   [http://dx.doi.org/10.1063/1.4865048 \[DOI\]]
-  [/pdf/qnde2013.pdf \[PDF\]]
-  [/pdf/qnde2013poster.pdf \[poster\]]
+  #[/pdf/qnde2013.pdf \[PDF\]]
+  #[/pdf/qnde2013poster.pdf \[poster\]]
 ~~~
 {}{raw}
 <div id="bib_gdqnde13" class="bibtex noshow"><pre>
@@ -151,7 +152,7 @@
   pp.~597-604.
   [/javascript:toggleBibtex('DogandzicGuQiuQNDE11') \[BibTex\]] 
   [http://dx.doi.org/10.1063/1.4716282 \[DOI\]]
-  [/pdf/qnde2011.pdf \[PDF\]]
+  #[/pdf/qnde2011.pdf \[PDF\]]
 ~~~
 {}{raw}
 <div id="bib_DogandzicGuQiuQNDE11" class="bibtex noshow"><pre>
@@ -176,7 +177,7 @@
   Grove, CA, Nov.  2011, pp.~2111-2116.
   [/javascript:toggleBibtex('dgq11') \[BibTex\]] 
   [http://dx.doi.org/10.1109/ACSSC.2011.6190402 \[DOI\]]
-  [/pdf/asilomar2011.pdf \[PDF\]]
+  #[/pdf/asilomar2011.pdf \[PDF\]]
 ~~~
 {}{raw}
 <div id="bib_dgq11" class="bibtex noshow"><pre>
