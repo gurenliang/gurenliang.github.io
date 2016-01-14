@@ -1,5 +1,8 @@
-
-~~~
+# jemdoc: nodefaultcss, addcss{css/mysite.css}, addcss{css/bibtex.css}
+# jemdoc: notime
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: title{Renliang Gu}
+#~~~
 #{}{img_left}{whitebg.jpg}{Renliang Gu}{150}
 = \nRenliang Gu
 Ph.D. student @
@@ -7,7 +10,7 @@ Ph.D. student @
 [http://www.iastate.edu/ Iowa State University], Ames, IA 50011\n
 #:{Address} 3125 Coover Hall
 \n
-~~~
+#~~~
 
 #== Contact
 #[renliang@iastate.edu]
@@ -25,18 +28,196 @@ Ph.D. student @
 - X-ray Computed Tomography Imaging
 
 == Publications
-- R. Gu and A. Dogandžić, "[icassp2013/ Beam hardening correction via
-  mass attenuation discretization]," in /Proc. IEEE Int. Conf. Acoust., Speech,
-  Signal Process./, Vancouver, Canada, May 2013, to appear.
+
+- R.~Gu and A.~Dogandžić, "Blind X-ray CT Image Reconstruction from
+  Polychromatic Poisson Measurements," /IEEE Trans. Comput. Imag./, 
+  submitted.
+
+- R.~Gu and A.~Dogandžić, (Sep.~2015). Polychromatic X-ray CT image 
+  reconstruction and mass-attenuation spectrum estimation. arXiv: 
+  [http://arxiv.org/abs/1509.02193 1509.02193] \[stat.ME\].
+  [http://www.slideshare.net/AleksandarDogandi/blind-beamhardening-correction-from-poisson-measurements 
+  \[slides\]]
+
+- R.~Gu and A.~Dogandžić, “Blind beam-hardening correction from {P}oisson 
+  measurements,” in /Rev. Prog. Quant.  Nondestr. Eval./, D.~E.~Chimenti 
+  and L.~J.~Bond, Eds., ser. AIP Conf. Proc. 2016, to appear. 
+  [/qnde2015.bib \[BibTex\]][/pdf/qnde2015.pdf \[PDF\]] 
+
+- R. Gu and A. Dogandžić, “A fast proximal gradient algorithm for 
+  reconstructing nonnegative signals with sparse transform coefficients,” 
+  in /Proc. Asilomar Conf. Signals, Syst. Comput./, Pacific Grove, CA, 
+  Nov.~2014, pp.~1662–1667
+  [/javascript:toggleBibtex('gdasil14') \[BibTex\]]
+  [http://dx.doi.org/10.1109/ACSSC.2014.7094749 \[DOI\]]
+  [/pdf/asilomar2014.pdf \[PDF\]]
+~~~
+{}{raw}
+<div id="bib_gdasil14" class="bibtex noshow"><pre>
+@string{asilomar = {{Proc. Asilomar Conf. Signals, Syst. Comput.}}}
+@inproceedings{gdasil14,
+    Address = {Pacific Grove, CA},
+    Author = {Renliang Gu and Aleksandar Dogand\v{z}i\'c},
+    Booktitle = Asilomar,
+    Month = nov,
+    Title = {A fast proximal gradient algorithm for reconstructing 
+        nonnegative signals with sparse transform coefficients},
+    pages={1662–1667},
+    Year = {2014}
+}
+</pre></div>
+~~~
+- R.~Gu and A.~Dogandžić, “Polychromatic sparse image reconstruction and 
+  mass attenuation spectrum estimation via B-spline basis function 
+  expansion,” in /Rev. Prog. Quant. Nondestr. Eval./, D.~E.~Chimenti and 
+  L.~J.~Bond, Eds., ser. AIP Conf. Proc. Vol.~34 1650, Melville, NY, 2015, 
+  pp.~1707–1716.
+# (This paper is on the *lognormal* measurement model with $\ell_1$-norm regularizations)
+  [/javascript:toggleBibtex('gdqnde14') \[BibTex\]] 
+  [http://dx.doi.org/10.1063/1.4914792 \[DOI\]] 
+  [/pdf/qnde2014.pdf \[PDF\]]#[/pdf/qnde2014slides.pdf \[slides\]]
+~~~
+{}{raw}
+<div id="bib_gdqnde14" class="bibtex noshow"><pre>
+@string{qnde = { {Rev. Prog. Quant. Nondestr. Eval.} } }
+@inproceedings{gdqnde14,
+    Address = {Melville, {NY}},
+    Author = {Gu, Renliang and  Dogand\v{z}i\'c, Aleksandar},
+    Booktitle = QNDE,
+    Series = {AIP Conf. Proc.},
+    Editor = {Dale E. Chimenti  and Leonard J. Bond},
+    Title = {Polychromatic Sparse Image Reconstruction and Mass 
+        Attenuation Spectrum Estimation via {B}-Spline Basis Function 
+            Expansion},
+    volume={34 1650},
+    Year = {2015},
+    pages={1707-1716}
+}
+</pre></div>
+~~~
+- R. Gu and A. Dogandžić, “Sparse X-ray CT image reconstruction and blind 
+  beam hardening correction via mass attenuation discretization,” in /Proc.  
+  IEEE Int. Workshop Comput. Advances Multi-Sensor Adaptive Process./, 
+  Saint Martin, French West Indies, Dec.~2013, pp.~244–247
+  [/javascript:toggleBibtex('gdCAMSAP13') \[BibTeX\]] 
+  [http://dx.doi.org/10.1109/CAMSAP.2013.6714053 \[DOI\]]
+  [/pdf/camsap2013.pdf \[PDF\]]
+~~~
+{}{raw}
+<div id="bib_gdCAMSAP13" class="bibtex noshow"><pre>
+@string{camsap = {{Proc. IEEE Int. Workshop Comput. Advances Multi-Sensor Adaptive Process.}}}
+@inproceedings{gdCAMSAP13,
+    Address = {Saint Martin, French West Indies},
+    Author = {Gu, Renliang and  Dogand\v{z}i\'c, Aleksandar},
+    Booktitle = camsap,
+    Date-Modified = {2012-12-19 20:59:00 +0000},
+    Month = dec,
+    Title = {Sparse {X}-ray {CT} Image Reconstruction and Blind Beam Hardening
+        Correction via Mass Attenuation Discretization},
+    pages = {244-247},
+    Year = 2013,
+    keywords = {dogandzic2013}
+}
+</pre></div>
+~~~
+- R. Gu and A. Dogandžić, “Sparse signal reconstruction from polychromatic 
+  X-ray CT measurements via mass attenuation discretization,” in /Rev.  
+  Prog. Quant.  Nondestr. Eval./, D.~O.~Thompson, D.~E.~Chimenti, and 
+  L.~J.~Bond, Eds., ser. AIP Conf. Proc. Vol.~33 1581, Melville, NY, 2014, 
+  pp.~1848–1855.
+  [/javascript:toggleBibtex('gdqnde13') \[BibTeX\]] 
+  [http://dx.doi.org/10.1063/1.4865048 \[DOI\]]
+  [/pdf/qnde2013.pdf \[PDF\]]
+  [/pdf/qnde2013poster.pdf \[poster\]]
+~~~
+{}{raw}
+<div id="bib_gdqnde13" class="bibtex noshow"><pre>
+@string{qnde = { {Rev. Prog. Quant. Nondestr. Eval.} } }
+@inproceedings{gdqnde13,
+    Address = {{Melville, NY}},
+    Author = {Gu, Renliang and  Dogand\v{z}i\'c, Aleksandar},
+    Booktitle = QNDE,
+    Editor = {Don O. Thompson and Dale E. Chimenti and Leonard 
+        J. Bond},
+    Series = {AIP Conf. Proc.},
+    Title = {Sparse Signal Reconstruction from Polychromatic {X}-ray
+        {CT} Measurements via Mass Attenuation Discretization},
+    volume={33 1581},
+    pages={1848–1855},
+    Year = {2014}
+}
+</pre></div>
+~~~
+- R.~Gu and A.~Dogandžić, “Beam hardening correction via mass attenuation 
+  discretization,” in /Proc.\ IEEE Int.\ Conf.\ Acoust., Speech, Signal 
+  Process./, Vancouver, Canada, May 2013, pp.~1085–1089.  
+  [/javascript:toggleBibtex('GuDogandzic2013') \[BibTeX\]] 
+  [http://dx.doi.org/10.1109/ICASSP.2013.6637817 \[DOI\]] 
+  [/pdf/icassp2013.pdf \[PDF\]] [/pdf/icassp2013poster.pdf \[poster\]]
+~~~
+{}{raw}
+<div id="bib_GuDogandzic2013" class="bibtex noshow"><pre>
+@string{icassp = { {Proc. IEEE Int. Conf. Acoust., Speech, Signal Process.} } }
+@conference{GuDogandzic2013,
+    title ={Beam Hardening Correction Via Mass Attenuation Discretization},
+    booktitle = ICASSP,
+    author  = {Gu, Renliang and  Dogand\v{z}i\'c, Aleksandar},
+    Address = {Vancouver, Canada},
+    Month = may,
+    pages={1085-1089},
+    year    = 2013
+}
+</pre></div>
+~~~
 - A. Dogandžić, R. Gu, and K. Qiu, “Algorithms for sparse X-ray CT image 
   reconstruction of objects with known contour,” in /Rev. Progress 
-  Quantitative Nondestructive Evaluation/, D. O. Thompson and D. E. Chimenti, 
-  Eds., ser. AIP Conf. Proc. Vol. 31, Melville, NY, 2012, pp. 597-604
-- A. Dogandžić, R. Gu, and K. Qiu, 
-  "[http://home.engineering.iastate.edu/~ald/asil11.pdf Mask iterative hard 
-  thresholding algorithms for sparse image reconstruction of objects with 
-  known contour]," in /Proc. Asilomar Conf. Signals, Syst. Comput./, 
-  Pacific Grove, CA, Nov.  2011, pp. 2111-2116.
+  Quantitative Nondestructive Evaluation/, D. O. Thompson and D. E.  
+  Chimenti, Eds., ser. AIP Conf. Proc. Vol. 31, Melville, NY, 2012, 
+  pp.~597-604.
+  [/javascript:toggleBibtex('DogandzicGuQiuQNDE11') \[BibTex\]] 
+  [http://dx.doi.org/10.1063/1.4716282 \[DOI\]]
+  [/pdf/qnde2011.pdf \[PDF\]]
+~~~
+{}{raw}
+<div id="bib_DogandzicGuQiuQNDE11" class="bibtex noshow"><pre>
+@string{qnde = {{Rev. Prog. Quant. Nondestr. Eval.}}}
+@inproceedings{DogandzicGuQiuQNDE11,
+    Address = {{Melville, NY}},
+    Author = {Aleksandar Dogand\v{z}i\'c and Renliang Gu and Kun Qiu},
+    Booktitle = QNDE,
+    Editor = {Thompson, Don O. and Chimenti, Dale E.},
+    Pages = {{597-604}},
+    Series = {AIP Conf. Proc.},
+    Title = {Algorithms for sparse {X}-ray {CT} image reconstruction of 
+        objects with known contour},
+    Volume = 31,
+    Year = {2012}
+}
+</pre></div>
+~~~
+- A. Dogandžić, R. Gu, and K. Qiu, "Mask iterative hard thresholding 
+  algorithms for sparse image reconstruction of objects with known 
+  contour," in /Proc. Asilomar Conf. Signals, Syst. Comput./, Pacific 
+  Grove, CA, Nov.  2011, pp.~2111-2116.
+  [/javascript:toggleBibtex('gdq11') \[BibTex\]] 
+  [http://dx.doi.org/10.1109/ACSSC.2011.6190402 \[DOI\]]
+  [/pdf/asilomar2011.pdf \[PDF\]]
+~~~
+{}{raw}
+<div id="bib_dgq11" class="bibtex noshow"><pre>
+@string{asilomar = {{Proc. Asilomar Conf. Signals, Syst. Comput.}}}
+@inproceedings{dgq11,
+    Address = {Pacific Grove, CA},
+    Author = {Dogand{\v z}i{\'c}, Aleksandar and  Gu, Renliang and Qiu, Kun},
+    Booktitle = Asilomar,
+    Month = nov,
+    Pages = {2111-2116},
+    Title = {Mask iterative hard thresholding algorithms for sparse image reconstruction of objects
+        with known contour},
+    Year = {2011}
+}
+</pre></div>
+~~~
 - A. Hu, R. Gu and P. Fan, “A File Encryption Method of USB Mobile Storage 
   Device”, /State Intellectual Property Office of P.R.China/, Patent #: 
   200910183069.1, Jul. 2009.
@@ -45,6 +226,8 @@ Ph.D. student @
 - EE 224: Signal and Systems I
 -- Fall 2010 (Lab instructor, homework and lab report grader)
 -- Spring 2011 (Lab instructor, lab report grader)
+- EE 323:
+-- Spring 2016 (Lab instructor, lab report grader)
 
 == Education
 - Ph.D., [http://www.ece.iastate.edu/ Electrical and Computer Engineering], 
@@ -55,12 +238,12 @@ Ph.D. student @
   Technology] (study in [http://wjx.seu.edu.cn/ Chien-Shiung Wu College] 
   for the first two years), [http://www.seu.edu.cn Southeast University], 
   Nanjing, China, Aug. 2005 \~ Jul. 2009.\n
-  (Overall GPA: 88.15/100, Major GPA: 90.75) #, Ranking: 4/84)
+  (Overall GPA: 88.15\/100, Major GPA: 90.75) #, Ranking: 4/84)
 
 == Thesis
 - R. Gu, “A File Encryption System for USB Memory Device based on Embedded 
-  System of ARM9”, Bachelor of Engineering Thesis, Southeast University, 
-  Jul. 2009.
+  System of ARM9 (in Chinese)”, Bachelor of Engineering Thesis, Southeast 
+  University, Jul. 2009.
 
 == Technical Experience
 - R. Gu, GMSK modulator and demodulator design for GSM base station on FPGA

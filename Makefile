@@ -1,27 +1,27 @@
-#
 
-DOCS=index
+DOCS:=index
 
-HDOCS=$(addsuffix .html, $(DOCS))
-PHDOCS=$(addprefix ./, $(HDOCS))
+HDOCS:=$(addsuffix .html, $(DOCS))
+
+FLAGS := -c mysite.conf
 
 .PHONY : docs
-docs : $(PHDOCS)
+docs : $(HDOCS)
 
 .PHONY : update
-update : $(PHDOCS)
+update : $(HDOCS)
 	@echo $(DOCS)
 	@echo $(HDOCS)
-	@echo $(PHDOCS)
 	@echo -n 'Copying to server...'
 	# insert code for copying to server here.
 	rsync -avz ./ /var/www/renliang/
 	@echo ' done.'
 
-./index.html : index.jemdoc
-	# MENU
-	jemdoc -o $@ $<
+all: docs
+
+$(HDOCS) : %.html : %.jemdoc mysite.conf MENU
+	jemdoc $(FLAGS) $<
 
 .PHONY : clean
 	clean :
-	-rm -f html/*.html
+	-rm -vf $(HDOCS)
