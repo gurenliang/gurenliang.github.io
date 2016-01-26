@@ -5,8 +5,16 @@
 == Publications
 
 - R.~Gu and A.~Dogandžić, "Blind X-ray CT Image Reconstruction from
-  Polychromatic Poisson Measurements," /IEEE Trans. Comput. Imag./, 
-  submitted.
+  Polychromatic Poisson Measurements," /IEEE Trans. Comput. Imag./, 2015, 
+  in revision.
+
+- R.~Gu and A.~Dogandžić, “Blind polychromatic X-ray CT reconstruction from 
+  Poisson measurements,” in /Proc. IEEE Int.  Conf. Acoust., Speech, Signal 
+  Process./, Shanghai, China, 2016, to appear.
+
+- R.~Gu and A.~Dogandžić, “Projected Nesterov’s proximal-gradient signal 
+  recovery from compressive Poisson measurements,” in /Proc. Asilomar Conf.  
+  Signals, Syst. Comput./, Pacific Grove, CA, Nov. 2015, to appear.
 
 - R.~Gu and A.~Dogandžić, (Sep.~2015). Polychromatic X-ray CT image 
   reconstruction and mass-attenuation spectrum estimation. arXiv: 
@@ -14,7 +22,7 @@
   [http://www.slideshare.net/AleksandarDogandi/blind-beamhardening-correction-from-poisson-measurements 
   \[slides\]]
 
-- R.~Gu and A.~Dogandžić, “Blind beam-hardening correction from {P}oisson 
+- R.~Gu and A.~Dogandžić, “Blind beam-hardening correction from Poisson 
   measurements,” in /Rev. Prog. Quant.  Nondestr. Eval./, D.~E.~Chimenti 
   and L.~J.~Bond, Eds., ser. AIP Conf. Proc. 2016, to appear.  
   #[/javascript:toggleBibtex('gdasil14') \[BibTex\]] [/pdf/qnde2015.pdf \[PDF\]] 
@@ -201,5 +209,5 @@
 == Undergraduate Thesis
 - R. Gu, “A File Encryption System for USB Memory Device based on Embedded 
   System of ARM9 (in Chinese)”, Bachelor of Engineering Thesis, Southeast 
-  University, Jul. 2009.
+  University, Jul.~2009. [/pdf/undergradThesis.pdf \[PDF\]]
 
