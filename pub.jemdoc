@@ -6,11 +6,14 @@
 
 - R.~Gu and A.~Dogandžić, "Blind X-ray CT Image Reconstruction from
   Polychromatic Poisson Measurements," /IEEE Trans. Comput. Imag./, 2015, 
-  in revision.
+  to appear.
 
-- R.~Gu and A.~Dogandžić, “Blind polychromatic X-ray CT reconstruction from 
-  Poisson measurements,” in /Proc. IEEE Int.  Conf. Acoust., Speech, Signal 
-  Process./, Shanghai, China, 2016, to appear.
+- R.~Gu and A.~Dogandžić, “Blind Polychromatic X-Ray CT Reconstruction from 
+  Poisson Measurements,” in /Proc.\ IEEE Int.\ Conf.\ Acoust., Speech, 
+  Signal Process./, Shanghai, China, March 2016, to appear.
+  #[/javascript:toggleBibtex('GuDogandzic2013') \[BibTeX\]] 
+  #[http://dx.doi.org/10.1109/ICASSP.2013.6637817 \[DOI\]] 
+  #[/pdf/icassp2013.pdf \[PDF\]] [/pdf/icassp2013poster.pdf \[poster\]]
 
 - R.~Gu and A.~Dogandžić, “Projected Nesterov’s proximal-gradient signal 
   recovery from compressive Poisson measurements,” in /Proc. Asilomar Conf.  
