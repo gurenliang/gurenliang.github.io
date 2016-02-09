@@ -4,16 +4,15 @@
 # jemdoc: title{Renliang Gu}
 == Projects
 
-- R. Gu, GMSK modulator and demodulator design for GSM base station on FPGA
-  platform, Nov.  2009 \∼ July 2010.
-- R. Gu, 10\/100M Ethernet-FIFO Converter IP Core Design, Jul. 2009 ∼ Sept.
-  2009.\n
-  One part of GSM transceiver. I was in charge of FPGA module including PCB
-  designing and Ethernet- FIFO interface verilog coding. The project is now
-  available at Opencores.com.
-- R. Gu, P. Fan and J. Zhang, General USB Security Guard with Fingerprint
-  Recognition, Jun. 2008 \∼ Aug. 2008.\n
-  The first prize project in National Undergraduate Electronic Design Contest.
-  Fingerprint is used for identification processed in DSP and FPGA is used to
-  resolve USB protocol and encrypt\/decrypt the data.
+GMSK modulator and demodulator implementation by Verilog
+
+10\/100M Ethernet-FIFO Converter IP Core
+
+  The project is now available at Opencores.com.
+
+General USB Security Guard with Fingerprint Recognition
+
+  The first prize project in National Undergraduate Electronic Design 
+  Contest.  Fingerprint is used for identification processed in DSP and 
+  FPGA is used to resolve USB protocol and encrypt\/decrypt the data.
 
