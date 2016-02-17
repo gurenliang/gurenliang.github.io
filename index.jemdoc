@@ -39,7 +39,8 @@ Ph.D. student @
 <script type="text/javascript" language="javascript">
 <!--
 _d=document; _n=navigator; _t=new Date(); function t() { _d.write(
-"<img src=\"http://us.2.cqcounter.com/cgi-bin/c?_id=renliang&_z=0&_r="+
+"<img width=\"1\" border =\"0\""+
+"src=\"http://us.2.cqcounter.com/cgi-bin/c?_id=renliang&_z=0&_r="+
 _r+"&_c="+_c+"&_j="+_j+"&_t="+(_t.getTimezoneOffset())+"&_k="+_k+
 "&_l="+escape(_d.referrer)+"\" width=70 height=15 "+
 "border=0>");} _c="0"; _r="0"; _j="U"; _k="U"; _d.cookie="_c=y";
