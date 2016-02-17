@@ -4,15 +4,15 @@
 # jemdoc: title{Renliang Gu}
 == Projects
 
-GMSK modulator and demodulator implementation by Verilog
+GMSK modulator\/demodulator of base band signal by Verilog \[GitHub\]
 
-10\/100M Ethernet-FIFO Converter IP Core
-
-  The project is now available at Opencores.com.
+10\/100M Ethernet-FIFO Converter IP Core 
+[https://github.com/antiquity/10_100m_ethernet-fifo_convertor \[GitHub\]]
+[http://opencores.org/project,10_100m_ethernet-fifo_convertor \[OpenCores\]]
 
 General USB Security Guard with Fingerprint Recognition
 
-  The first prize project in National Undergraduate Electronic Design 
-  Contest.  Fingerprint is used for identification processed in DSP and 
-  FPGA is used to resolve USB protocol and encrypt\/decrypt the data.
+The first prize project in National Undergraduate Electronic Design 
+Contest.  Fingerprint is used for identification processed in DSP and 
+FPGA is used to resolve USB protocol and encrypt\/decrypt the data.
 
