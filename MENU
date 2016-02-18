@@ -1,9 +1,12 @@
-Home                    [index.html]
-Publications            [pub.html]
-Projects
-    Softwares           [proj.html]
-    BeamHardenCorrect.  [bhc.html]
-    ImgRecSrc           [npg.html]
-    Misc                [misc.html]
+
+    Home                [index.html]
+    Publications        [pub.html]
+Research
+    X-ray CT            [bhc.html]
+#   NPG                 [npg.html]
+Technical
+    Projects            [proj.html]
+#Others
+#   Misc                [misc.html]
 
 # vim: et

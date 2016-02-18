@@ -4,10 +4,33 @@
 # jemdoc: title{Renliang Gu}
 #~~~
 #{}{img_left}{whitebg.jpg}{Renliang Gu}{150}
-= Renliang Gu
-Ph.D. student @
-[http://www.ece.iastate.edu/ Electrical and Computer Engineering]\n
-[http://www.iastate.edu/ Iowa State University], Ames, IA 50011
+
+~~~
+{}{raw}
+<style>
+#bar div {
+    display: inline-block;
+}
+#bar div.pages {
+    float: right;
+}
+
+</style>
+<div id="toptitle">
+    <h1>Renliang Gu</h1>
+    <div id="bar">
+        <div id="subtitle">Ph.D. student @
+        <a href="http://www.ece.iastate.edu/" target=&ldquo;blank&rdquo;>Electrical and Computer Engineering</a><br />
+        <a href="http://www.iastate.edu/" target=&ldquo;blank&rdquo;>Iowa State University</a>, Ames, IA 50011
+        </div>
+        <div class="pages">
+        <br/>
+        <a href="https://github.com/antiquity" target=&ldquo;blank&rdquo;>[GitHub Page]</a>
+        </div>
+    </div>
+</div>
+~~~
+
 
 == Research Interest
 - Statistical Signal Processing

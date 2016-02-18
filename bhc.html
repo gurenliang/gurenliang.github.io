@@ -48,21 +48,24 @@ function toggleBibtex(articleid) {
 <td id="layout-menu">
 <div class="menu-item"><a href="index.html">Home</a></div>
 <div class="menu-item"><a href="pub.html">Publications</a></div>
-<div class="menu-category">Projects</div>
-<div class="menu-item"><a href="proj.html">Softwares</a></div>
-<div class="menu-item"><a href="bhc.html" class="current">BeamHardenCorrect.</a></div>
-<div class="menu-item"><a href="npg.html">ImgRecSrc</a></div>
-<div class="menu-item"><a href="misc.html">Misc</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="bhc.html" class="current">X-ray&nbsp;CT</a></div>
+<div class="menu-category">Technical</div>
+<div class="menu-item"><a href="proj.html">Projects</a></div>
 </td>
 <td id="layout-content">
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<div id="forLoad"></div>
+<script 
+src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script>
-$('#layout-content').load("http://isucsp.github.io/imgRecSrc/bhc.html");
+$(document).ready(function(){
+    $('#forLoad').load("http://isucsp.github.io/imgRecSrc/bhc.html #forLoad");
+});
 </script>
 
 <div id="footer">
 <div id="footer-text">
-Page upadted on 2016-02-17
+Page upadted on 2016-02-18
 </div>
 </div>
 </td>

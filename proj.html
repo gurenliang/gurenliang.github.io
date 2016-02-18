@@ -48,27 +48,77 @@ function toggleBibtex(articleid) {
 <td id="layout-menu">
 <div class="menu-item"><a href="index.html">Home</a></div>
 <div class="menu-item"><a href="pub.html">Publications</a></div>
-<div class="menu-category">Projects</div>
-<div class="menu-item"><a href="proj.html" class="current">Softwares</a></div>
-<div class="menu-item"><a href="bhc.html">BeamHardenCorrect.</a></div>
-<div class="menu-item"><a href="npg.html">ImgRecSrc</a></div>
-<div class="menu-item"><a href="misc.html">Misc</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="bhc.html">X-ray&nbsp;CT</a></div>
+<div class="menu-category">Technical</div>
+<div class="menu-item"><a href="proj.html" class="current">Projects</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
 <h1>Projects</h1>
 </div>
-<p>GMSK modulator/demodulator of base band signal by Verilog [GitHub]</p>
-<p>10/100M Ethernet-FIFO Converter IP Core 
+<ul>
+<li><p>GMSK modulator/demodulator of base band signal by Verilog
+<a href="tar/GMSK_forDownload.tar.gz" target=&ldquo;blank&rdquo;>[archive]</a></p>
+</li>
+</ul>
+<ul>
+<li><p>10/100M Ethernet-FIFO Converter IP Core 
 <a href="https://github.com/antiquity/10_100m_ethernet-fifo_convertor" target=&ldquo;blank&rdquo;>[GitHub]</a>
 <a href="http://opencores.org/project,10_100m_ethernet-fifo_convertor" target=&ldquo;blank&rdquo;>[OpenCores]</a></p>
-<p>General USB Security Guard with Fingerprint Recognition</p>
-<p>The first prize project in National Undergraduate Electronic Design 
-Contest.  Fingerprint is used for identification processed in DSP and 
-FPGA is used to resolve USB protocol and encrypt/decrypt the data.</p>
+</li>
+</ul>
+<ul>
+<li><p>General USB Security Guard with Fingerprint Recognition<br />
+A device connecting USB drive (including USB external hard disk) and PC.  
+For PC, it works as a normal USB drive; while for USB, it is a normal PC.  
+Files are encrypted (32-bit AES) when transferred from PC to USB drive, 
+and decrypted in the other direction.  Fingerprints are used for 
+identification.  Plaintext files and encrypted files co-exist in the same 
+file system within the USB drive.  Files owned by different users also 
+co-exist and can be retrieved through the fingerprint identification.</p>
+</li>
+</ul>
+<style>
+#figures {
+    text-align: center;
+/*  border-style: dotted;
+    color : #ff0000; */
+}
+#figures img{
+    width : 30%;
+}
+#figures div{
+    display: inline-block;
+    width : 30%;
+}
+</style>
+<div id=figures>
+<img src="fig/version1.jpg" alt="verion 1" />
+<img src="fig/version2_arm.jpg" alt="version 2 base board" />
+<img src="fig/version2_full.jpg" alt="version 2 full" />
+<br/>
+<div>Version 1 (<tt>Xilinx XC3S500E</tt>)</div>
+<div>Version 2 (<tt>AT91SAM9260</tt>) mother board</div>
+<div>Version 2 with fingerprint module</div>
+</div>
+<ul>
+<li><p>J2ME tank game <a href="tar/tankMIDlet.rar" target=&ldquo;blank&rdquo;>[code]</a></p>
+</li>
+</ul>
+<iframe width="420" height="315" 
+src="https://www.youtube.com/embed/qqht4lgyV3c?rel=0" frameborder="0" 
+allowfullscreen></iframe>
+<ul>
+<li><p>VHDL game: breakout  <a href="tar/Pinball.tar.gz" target=&ldquo;blank&rdquo;>[code]</a></p>
+</li>
+</ul>
+<iframe width="420" height="315" 
+src="https://www.youtube.com/embed/de6R79u_tds?rel=0" frameborder="0" 
+allowfullscreen></iframe>
 <div id="footer">
 <div id="footer-text">
-Page upadted on 2016-02-17
+Page upadted on 2016-02-18
 </div>
 </div>
 </td>

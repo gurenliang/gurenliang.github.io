@@ -4,15 +4,65 @@
 # jemdoc: title{Renliang Gu}
 == Projects
 
-GMSK modulator\/demodulator of base band signal by Verilog \[GitHub\]
+- GMSK modulator\/demodulator of base band signal by Verilog
+  [tar/GMSK_forDownload.tar.gz \[archive\]]
 
-10\/100M Ethernet-FIFO Converter IP Core 
-[https://github.com/antiquity/10_100m_ethernet-fifo_convertor \[GitHub\]]
+- 10\/100M Ethernet-FIFO Converter IP Core 
+  [https://github.com/antiquity/10_100m_ethernet-fifo_convertor \[GitHub\]]
 [http://opencores.org/project,10_100m_ethernet-fifo_convertor \[OpenCores\]]
 
-General USB Security Guard with Fingerprint Recognition
+- General USB Security Guard with Fingerprint Recognition\n
+  A device connecting USB drive (including USB external hard disk) and PC.  
+  For PC, it works as a normal USB drive; while for USB, it is a normal PC.  
+  Files are encrypted (32-bit AES) when transferred from PC to USB drive, 
+  and decrypted in the other direction.  Fingerprints are used for 
+  identification.  Plaintext files and encrypted files co-exist in the same 
+  file system within the USB drive.  Files owned by different users also 
+  co-exist and can be retrieved through the fingerprint identification.
 
-The first prize project in National Undergraduate Electronic Design 
-Contest.  Fingerprint is used for identification processed in DSP and 
-FPGA is used to resolve USB protocol and encrypt\/decrypt the data.
+~~~
+{}{raw}
+<style>
+#figures {
+    text-align: center;
+/*  border-style: dotted;
+    color : #ff0000; */
+}
+#figures img{
+    width : 30%;
+}
+#figures div{
+    display: inline-block;
+    width : 30%;
+}
+</style>
+<div id=figures>
+<img src="fig/version1.jpg" alt="verion 1" />
+<img src="fig/version2_arm.jpg" alt="version 2 base board" />
+<img src="fig/version2_full.jpg" alt="version 2 full" />
+<br/>
+<div>Version 1 (<tt>Xilinx XC3S500E</tt>)</div>
+<div>Version 2 (<tt>AT91SAM9260</tt>) mother board</div>
+<div>Version 2 with fingerprint module</div>
+</div>
+~~~
+
+- J2ME tank game [tar/tankMIDlet.rar \[code\]]
+
+~~~
+{}{raw}
+<iframe width="420" height="315" 
+src="https://www.youtube.com/embed/qqht4lgyV3c?rel=0" frameborder="0" 
+allowfullscreen></iframe>
+~~~
+
+
+- VHDL game: breakout  [tar/Pinball.tar.gz \[code\]]
+
+~~~
+{}{raw}
+<iframe width="420" height="315" 
+src="https://www.youtube.com/embed/de6R79u_tds?rel=0" frameborder="0" 
+allowfullscreen></iframe>
+~~~
 
