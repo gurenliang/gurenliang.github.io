@@ -1,7 +1,7 @@
 # jemdoc: nodefaultcss, addcss{css/mysite.css}, addcss{css/bibtex.css}
 # jemdoc: notime
-# jemdoc: menu{MENU}{bhc.html}
-# jemdoc: title{Blind Beam Hardening Correction}
+# jemdoc: menu{MENU}{pnpg.html}
+# jemdoc: title{Projected Nesterov's Proximal Gradient Method}
 
 ~~~
 {}{raw}
@@ -10,7 +10,7 @@
 src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
-    $('#forLoad').load("http://isucsp.github.io/imgRecSrc/bhc.html #forLoad");
+    $('#forLoad').load("http://isucsp.github.io/imgRecSrc/npg.html #forLoad");
 });
 </script>
 

@@ -2,7 +2,22 @@
 # jemdoc: notime
 # jemdoc: menu{MENU}{proj.html}
 # jemdoc: title{Renliang Gu}
+
 == Projects
+
+- +CUDA+ C Implementation of Fast Parallel\/Fan-beam X-ray Computed 
+  Tomography Projection\n
+  Use square pixel basis function; provide forward\/backward projection.
+  This code was tested on +Tesla M2090+ and +C2050+.  It is capable to 
+  handle 360 projections of 2-D image of size +1024x1024+ with each 
+  projection measured by 1440 detectors.
+  [https://github.com/isucsp/imgRecSrc/tree/master/prj \[code\]]
+
+- Java GUI interface for the X-ray CT reconstruction project\n
+  A foreground interface communicates to background iterative calculation 
+  components through TCP socket. It has parameter control and shows 
+  reconstruction progress.
+  [https://github.com/isucsp/imgRecSrc/tree/master/gui \[code\]]
 
 - GMSK modulator\/demodulator of base band signal by Verilog
   [tar/GMSK_forDownload.tar.gz \[archive\]]

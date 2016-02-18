@@ -33,16 +33,6 @@ function toggleBibtex(articleid) {
 </script>
 </head>
 <body>
-<div class="preamble noshow">
-\(
-\newcommand{\b}[1]{{\boldsymbol{#1}}}
-\newcommand{\bm}[1]{{\boldsymbol{#1}}}
-\newcommand{\cI}{\mathcal{I}}
-\newcommand{\dif}{\rm d}
-\newcommand{\balpha}{\b{\alpha}}
-\newcommand{\bcI}{\b{\mathcal{I}}}
-\)
-</div>
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
 <td id="layout-menu">
@@ -50,13 +40,30 @@ function toggleBibtex(articleid) {
 <div class="menu-item"><a href="pub.html">Publications</a></div>
 <div class="menu-category">Research</div>
 <div class="menu-item"><a href="bhc.html">X-ray&nbsp;CT</a></div>
+<div class="menu-item"><a href="pnpg.html">PNPG</a></div>
 <div class="menu-category">Technical</div>
 <div class="menu-item"><a href="proj.html" class="current">Projects</a></div>
 </td>
 <td id="layout-content">
-<div id="toptitle">
-<h1>Projects</h1>
-</div>
+<h2>Projects</h2>
+<ul>
+<li><p><tt>CUDA</tt> C Implementation of Fast Parallel/Fan-beam X-ray Computed 
+Tomography Projection<br />
+Use square pixel basis function; provide forward/backward projection.
+This code was tested on <tt>Tesla M2090</tt> and <tt>C2050</tt>.  It is capable to 
+handle 360 projections of 2-D image of size <tt>1024x1024</tt> with each 
+projection measured by 1440 detectors.
+<a href="https://github.com/isucsp/imgRecSrc/tree/master/prj" target=&ldquo;blank&rdquo;>[code]</a></p>
+</li>
+</ul>
+<ul>
+<li><p>Java GUI interface for the X-ray CT reconstruction project<br />
+A foreground interface communicates to background iterative calculation 
+components through TCP socket. It has parameter control and shows 
+reconstruction progress.
+<a href="https://github.com/isucsp/imgRecSrc/tree/master/gui" target=&ldquo;blank&rdquo;>[code]</a></p>
+</li>
+</ul>
 <ul>
 <li><p>GMSK modulator/demodulator of base band signal by Verilog
 <a href="tar/GMSK_forDownload.tar.gz" target=&ldquo;blank&rdquo;>[archive]</a></p>
