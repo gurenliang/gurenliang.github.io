@@ -11,6 +11,7 @@ src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 $(document).ready(function(){
     $('#layout-content').load("http://isucsp.github.io/imgRecSrc/bhc.html #layout-content > *");
 });
+MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
 </script>
 
 ~~~
