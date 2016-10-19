@@ -26,6 +26,12 @@
   [https://github.com/antiquity/10_100m_ethernet-fifo_convertor \[GitHub\]]
 [http://opencores.org/project,10_100m_ethernet-fifo_convertor \[OpenCores\]]
 
+- J2ME tank game [tar/tankMIDlet.rar \[code\]] 
+  [https://youtu.be/qqht4lgyV3c \[demo\]]
+
+- VHDL game: breakout  [tar/Pinball.tar.gz \[code\]] 
+  [https://youtu.be/de6R79u_tds \[demo\]]
+
 - General USB Security Guard with Fingerprint Recognition\n
   A device connecting USB drive (including USB external hard disk) and PC.  
   For PC, it works as a normal USB drive; while for USB, it is a normal PC.  
@@ -61,10 +67,4 @@
 <div>Version 2 with fingerprint module</div>
 </div>
 ~~~
-
-- J2ME tank game [tar/tankMIDlet.rar \[code\]] 
-  [https://youtu.be/qqht4lgyV3c \[demo\]]
-
-- VHDL game: breakout  [tar/Pinball.tar.gz \[code\]] 
-  [https://youtu.be/de6R79u_tds \[demo\]]
 
