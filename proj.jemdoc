@@ -62,22 +62,9 @@
 </div>
 ~~~
 
-- J2ME tank game [tar/tankMIDlet.rar \[code\]]
+- J2ME tank game [tar/tankMIDlet.rar \[code\]] 
+  [https://youtu.be/qqht4lgyV3c \[demo\]]
 
-~~~
-{}{raw}
-<iframe width="420" height="315" 
-src="https://www.youtube.com/embed/qqht4lgyV3c?rel=0" frameborder="0" 
-allowfullscreen></iframe>
-~~~
-
-
-- VHDL game: breakout  [tar/Pinball.tar.gz \[code\]]
-
-~~~
-{}{raw}
-<iframe width="420" height="315" 
-src="https://www.youtube.com/embed/de6R79u_tds?rel=0" frameborder="0" 
-allowfullscreen></iframe>
-~~~
+- VHDL game: breakout  [tar/Pinball.tar.gz \[code\]] 
+  [https://youtu.be/de6R79u_tds \[demo\]]
 
