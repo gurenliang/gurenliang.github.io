@@ -14,7 +14,7 @@
   [https://github.com/isucsp/imgRecSrc/tree/master/prj \[code\]]
 
 - Java GUI interface for the X-ray CT reconstruction project\n
-  A foreground interface communicates to background iterative calculation 
+  A front-end interface communicates to the back-end iterative calculation 
   components through TCP socket. It has parameter control and shows 
   reconstruction progress.
   [https://github.com/isucsp/imgRecSrc/tree/master/gui \[code\]]
