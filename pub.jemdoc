@@ -32,10 +32,26 @@
 
 - R.~Gu and A.~Dogandžić, “Blind Polychromatic X-Ray CT Reconstruction from 
   Poisson Measurements,” in /Proc.\ IEEE Int.\ Conf.\ Acoust., Speech, 
-  Signal Process./, Shanghai, China, March 2016, to appear.
-  #[/javascript:toggleBibtex('GuDogandzic2013') \[BibTeX\]] 
-  #[http://dx.doi.org/10.1109/ICASSP.2013.6637817 \[DOI\]] 
+  Signal Process./, Shanghai, China, Mar.\ 2016, pp.\ 898–902.
+  [/javascript:toggleBibtex('gdicassp16') \[BibTeX\]]
+  [http://dx.doi.org/10.1109/ICASSP.2016.7471805 \[DOI\]] 
   #[/pdf/icassp2013.pdf \[PDF\]] [/pdf/icassp2013poster.pdf \[poster\]]
+~~~
+{}{raw}
+<div id="bib_gdicassp16" class="bibtex noshow"><pre>
+@string{icassp = { {Proc. IEEE Int. Conf. Acoust., Speech, Signal Process.} } }
+@conference{gdicassp16,
+  title ={Blind Polychromatic {X}-Ray {CT} Reconstruction from {P}oisson 
+    Measurements}, 
+  booktitle = ICASSP,
+  author  = {Gu, Renliang and  Dogand\v{z}i\'c, Aleksandar},
+  address={Shanghai, China},
+  Month = mar,
+  pages = {898-902},
+  year    = 2016
+}
+</pre></div>
+~~~
 
 - R.~Gu and A.~Dogandžić, “Projected Nesterov’s proximal-gradient signal 
   recovery from compressive Poisson measurements”, in /Proc.\ Asilomar 
@@ -43,7 +59,7 @@
   1495.
   [http://dx.doi.org/10.1109/ACSSC.2015.7421393 \[DOI\]]
   [/javascript:toggleBibtex('gdasil15') \[BibTeX\]]
-  [/pdf/asilomar2015.pdf \[PDF\]]
+  #[/pdf/asilomar2015.pdf \[PDF\]]
 ~~~
 {}{raw}
 <div id="bib_gdasil15" class="bibtex noshow"><pre>
