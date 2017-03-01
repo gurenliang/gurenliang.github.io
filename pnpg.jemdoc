@@ -16,3 +16,4 @@ MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
 
 ~~~
 
+## > * is for "not grabbing the div itself, but its contents".
