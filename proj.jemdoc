@@ -19,8 +19,8 @@
   reconstruction progress.
   [https://github.com/isucsp/imgRecSrc/tree/master/gui \[code\]]
 
-- GMSK modulator\/demodulator of base band signal by Verilog
-  [tar/GMSK_forDownload.tar.gz \[archive\]]
+- GMSK modulator\/demodulator of base band signal by Verilog.
+  # [tar/GMSK_forDownload.tar.gz \[archive\]]
 
 - 10\/100M Ethernet-FIFO Converter IP Core 
   [https://github.com/antiquity/10_100m_ethernet-fifo_convertor \[GitHub\]]
