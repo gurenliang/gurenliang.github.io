@@ -109,8 +109,28 @@
 
 - R.~Gu and A.~Dogandžić, “Blind beam-hardening correction from Poisson 
   measurements,” in /Rev. Prog. Quant.  Nondestr. Eval./, D.~E.~Chimenti 
-  and L.~J.~Bond, Eds., ser. AIP Conf. Proc. 2016, to appear.  
-  #[/javascript:toggleBibtex('gdasil14') \[BibTex\]] [/pdf/qnde2015.pdf \[PDF\]] 
+  and L.~J.~Bond, Eds., ser.\ AIP Conf.\ Proc.\ Vol.~35 1706, Melville, NY, 
+  2016,
+  [/javascript:toggleBibtex('gdqnde15') \[BibTex\]]
+  [https://doi.org/10.1063/1.4940581 \[DOI\]]
+  #[/pdf/qnde2015.pdf \[PDF\]]
+~~~
+{}{raw}
+<div id="bib_gdqnde15" class="bibtex noshow"><pre>
+@string{qnde = { {Rev. Prog. Quant. Nondestr. Eval.} } }
+@inproceedings{gdqnde15,
+    Address = {{Melville, NY}},
+    Author = {Gu, Renliang and  Dogand\v{z}i\'c, Aleksandar},
+    Booktitle = QNDE,
+    Series = {AIP Conf. Proc.},
+    Editor = {Dale E. Chimenti  and Leonard J. Bond},
+    Title = {Blind beam-hardening correction from {P}oisson measurements},
+    volume={35 1706},
+    Year = {2016},
+    eid={110010}
+}
+</pre></div>
+~~~
 
 - R. Gu and A. Dogandžić, “A fast proximal gradient algorithm for 
   reconstructing nonnegative signals with sparse transform coefficients,” 
@@ -135,6 +155,7 @@
 }
 </pre></div>
 ~~~
+
 - R.~Gu and A.~Dogandžić, “Polychromatic sparse image reconstruction and 
   mass attenuation spectrum estimation via B-spline basis function 
   expansion,” in /Rev. Prog. Quant. Nondestr. Eval./, D.~E.~Chimenti and 
@@ -288,12 +309,17 @@
 </pre></div>
 ~~~
 - A. Hu, R. Gu and P. Fan, “A File Encryption Method of USB Mobile Storage 
-  Device”, /State Intellectual Property Office of P.R.China/, Patent #: 
+  Device”, /State Intellectual Property Office of P.R.China/, Patent \#: 
   200910183069.1, Jul. 2009.
 
-== Undergraduate Thesis
+== Thesis
+- R. Gu, “Convex-set--constrained sparse signal recovery: Theory and 
+  applications”, /Ph.\ D.\ Thesis/, Iowa State University, 2017.  
+  [http://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=6535&context=etd 
+  \[PDF\]]
+
 - R. Gu, “A File Encryption System for USB Memory Device based on Embedded 
-  System of ARM9 (in Chinese)”, Bachelor of Engineering Thesis, Southeast 
+  System of ARM9 (in Chinese)”, /Bachelor of Engineering Thesis/, Southeast 
   University, Jul.~2009. [/pdf/undergradThesis.pdf \[PDF\]]
 
 == High School
